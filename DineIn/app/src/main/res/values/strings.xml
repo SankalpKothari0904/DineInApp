@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Dine In!</string>
+    <string name="sell">Sell</string>
+    <string name="quantity">Quantity Ordered <font color='#FF0000'>*</font></string>
+    <string name="quantity_req">Quantity in Stock <font color='#FF0000'>*</font></string>
+    <string name="item_name_req">Item Name <font color='#FF0000'>*</font></string>
+    <string name="table_no_reqd">Table Number <font color='#FF0000'>*</font></string>
+    <string name="item_price_req">Item Price <font color='#FF0000'>*</font></string>
+    <string name="save_action">Save</string>
+    <string name="item_detail_fragment_title">Item Details</string>
+    <string name="add_fragment_title">Add Item</string>
+    <string name="edit_fragment_title">Edit Item</string>
+    <string name="price">Price</string>
+    <string name="quantity_in_stock">Quantity\nIn Stock</string>
+    <string name="item">Item</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="currency_symbol">$</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="add_new_item">Add new item</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_started">Get Started</string>
+    <string name="quantity_ordered">Quantity Ordered</string>
+    <string name="table_no">Table No</string>
+    <string name="generate_bill">Generate Bill</string>
+    <string name="go_back">Go Back</string>
+    <string name="enter_table_number">Enter Table Number <font color='#FF0000'>*</font></string>
+    <string name="next">Next</string>
+    <string name="total_price">Total Price:</string>
+    <string name="item_deets">Item details</string>
+    <string name="bill_paid">Bill Paid</string>
+</resources>
